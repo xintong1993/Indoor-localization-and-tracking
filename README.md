@@ -1,5 +1,7 @@
 #Indoor localization and tracking
 
+Run files getRSSI.lua --> avgRSSI.lua --> nearestNeighbour.lua
+
 This is the exploration of indoor localizaiton algorithm using fingerprinting method.
 
 In particular, I used nearest neighbour method to determine the closest reference point.
@@ -23,3 +25,5 @@ Algorithm: Indoor localization using NN
      5. Compare tag's RSSI pattern to that of the points in database.
      
      6. Get the reference point that has the smallest difference in RSSI values.
+
+
