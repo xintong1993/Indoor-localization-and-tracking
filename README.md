@@ -16,10 +16,10 @@ Algorithm: Nearest neighbour method
      
      2. Choose several reference points. 
      
-     3. For each point, compute and record RSSI of each AP. 
+     3. For each point, compute and record a list RSSI from each AP. 
      
-     4. Randomly place the tag in the sample space and record RSSI values.
+     4. Place the tag in the sample space and record RSSI values.
      
-     5. Compare the RSSI values of current position to the database.
+     5. Compare tag's RSSI pattern to that of the points in database.
      
-     6. Get the reference point that has the smallest difference in RSSI pattern.
+     6. Get the reference point that has the smallest difference in RSSI values.
