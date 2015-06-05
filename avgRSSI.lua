@@ -1,4 +1,4 @@
--- Run getRSSI.lua first before run this file.
+-- Run getRSSI.lua first before run this file
 -- This script process the data collected by get RSSI.lua, namely :
 -- 1. calculate the average value of each list
 -- 2. concatenate the average rssi values into a new list
