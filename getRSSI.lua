@@ -1,6 +1,6 @@
 --- collect RSSI values at fixed distance from desired AP
 --- for each AP create a list of RSSI value
---- print RSSI values on screen intermittently
+--- print RSSI values on screen periodically
 
 wifi.setmode(1)
 R={};tmp={}                  --initialize list of APs and table of RSSI
