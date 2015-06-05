@@ -4,7 +4,7 @@ This is the exploration of indoor localizaiton algorithm using fingerprinting me
 
 In particular, I used nearest neighbour method to determine the closest reference point.
 
-Algorithm: Nearest neighbour method
+Algorithm: Indoor localization using NN
 
   Setup database {p1,...,pn}
   
